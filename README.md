@@ -1,9 +1,9 @@
-# StarterWebsite
+# Starter Website
 Easy to use HTML website design.
 
 Here is a HTML template exsample
 
-'''
+'''html
 <html>
   <head>
     <title>Title</title>
